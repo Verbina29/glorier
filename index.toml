@@ -51,6 +51,11 @@ hash = "61646bf3738b16c07c6cee3de35afe9a016eb8ae031e2183e4b17c2090619741"
 metafile = true
 
 [[files]]
+file = "mods/biomesyougo.pw.toml"
+hash = "92ef5eeacae2ae73c478e5b829a03e91f2b0a364cf2c72bd75884b537ae720ca"
+metafile = true
+
+[[files]]
 file = "mods/blue-skies.pw.toml"
 hash = "453fcfde78387fcda8cf097a9f4457d0fbaf717d23ac8202ced23f5ac4bea8b4"
 metafile = true
@@ -83,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "7342959eb86faf584e6d64417064dd793ae6b4667f51954f4169d11fe5f0d5da"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "1052dacc31da664492ac60677ba33f4f4402592b6897908b700000f68c04f176"
 metafile = true
 
 [[files]]
