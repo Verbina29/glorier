@@ -426,11 +426,6 @@ hash = "31e69865ce5653d1b6440e0738b76a036b880a8efd44df1d6378258bdc64a13d"
 metafile = true
 
 [[files]]
-file = "mods/traverse-reforged.pw.toml"
-hash = "8e7e731ffad143557b695054f708b928225b7ce23b82bcc5ecb92e2500cc52ff"
-metafile = true
-
-[[files]]
 file = "mods/twigs.pw.toml"
 hash = "3f285efd86db37d6f60ecf1c1a8513d86197e189d6e0eb71fa0484f09d61cc86"
 metafile = true
