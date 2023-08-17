@@ -266,6 +266,11 @@ hash = "b3cf7b7b3673183a9aedfc4a77c1a3d071f25ee304a683c27ed9757d2aa052c6"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "23d2a08c8640feb83c6326c1b146593714a4d3d428987293bfa3235fbf566184"
+metafile = true
+
+[[files]]
 file = "mods/moreiotas.pw.toml"
 hash = "bac83b87380a8ccb292164cd67ab69bee7b26ca55e6032039e49f748aaafb224"
 metafile = true
