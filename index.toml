@@ -333,6 +333,11 @@ hash = "396a1e33bebc7f607bd1737a4ab3706c4760ded4eaa69a267ada209661ec99c6"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "741032fa990abb4939ff5a270f46f60f10def5451f40805ac0bc12840aff9fdf"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer-forge.pw.toml"
 hash = "a806690351bb60a63d16937f9e41f3d03e05d5f187e9285478a0e411cb8425e3"
 metafile = true
