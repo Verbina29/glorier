@@ -146,6 +146,11 @@ hash = "ea0d8c35669646b8d739a20b97a28c48744dcdea889ccc3c39ccd1431bf5cc6c"
 metafile = true
 
 [[files]]
+file = "mods/expanded-storage.pw.toml"
+hash = "489ccca9174b8e60355182bab7b92f742391dc329880043732a4274f3a67405e"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
 metafile = true
@@ -248,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/mafglib.pw.toml"
 hash = "5e273d80c77eccedc5df949ff293c184dd1849bc081c5eb4896d396ec58d0e2a"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "512c34cf75ee99714b732ed330b1b67308480106dfd69185b3e09d42c6aa0d29"
 metafile = true
 
 [[files]]
@@ -358,6 +368,16 @@ metafile = true
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "db5e543267868533b9d6957829f6fa302a2cf2460c3b8a90602810f42a1f83c4"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "1000f9959cc5c55b1842228be2717c145fa63925bd9a35213942a5f3857ff91a"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "b1661fd8e4bc9a49aa8412a549a2bf36f43803eef3fdac4dbab629ab211ba088"
 metafile = true
 
 [[files]]
