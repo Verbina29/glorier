@@ -262,6 +262,11 @@ hash = "17250d0ab49b7f20fb513eea71467b03440214413a1d7575e9f0c6520cb2fa6b"
 metafile = true
 
 [[files]]
+file = "mods/i-know-what-im-doing.pw.toml"
+hash = "7bfc6fd8a94e02e289c31c8500215abdfbbb29f92535ebceeb7a76ffb7efb251"
+metafile = true
+
+[[files]]
 file = "mods/idas.pw.toml"
 hash = "c5cc662513953a95db0fc0c8d98186d1f1100478683520ed112f2cae64ea84e6"
 metafile = true
