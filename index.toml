@@ -9,6 +9,10 @@ file = "config/emi.css"
 hash = "81dd76c422668ccb2a9baea8ab7249a0225160c40cc1e8fae93443a61bcee4a3"
 
 [[files]]
+file = "config/hexcasting-client.toml"
+hash = "54a4de54713ee2d2d8de63ed9c80957ad4009003d3dc20d20a612cac504f8c30"
+
+[[files]]
 file = "config/inventoryhud-client.toml"
 hash = "4476f781755b6588ee0cd7057debf29359b14add9fe9d786909381e18357f4aa"
 
