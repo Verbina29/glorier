@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "4c21bfaee9c59de2c1ce01a3004f2e47de7775c2f0043773ed435b7852be929c"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "737d7767b4e9e28e3e60805e3f980120b005803c93837e484d935f6156199893"
 metafile = true
@@ -33,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/artifacts.pw.toml"
 hash = "7a9ff799de5ec7c72602a406d26304c2a5cf5adfaf7d919aba2b4e9151664ac1"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "2264acfbd388023f4c11b06b18e1a8b79b2b078e9fbf4cc38b31e4cb31c653dd"
 metafile = true
 
 [[files]]
@@ -318,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "827b361fcddfa0bdb84bfa0ebf0e1a38b139804c92aaf9e39218d784e4111fb4"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "a158a4062e16b7daeaa5f4bbdff8f303311a8b84450356e86625eaf838834fb9"
 metafile = true
 
 [[files]]
