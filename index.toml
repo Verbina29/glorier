@@ -1,6 +1,38 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/InventoryHUD/curios.json"
+hash = "17ea8862acfefec83e322d94e063bc90c70f17a007db015f60ff1e6261a9a5b5"
+
+[[files]]
+file = "config/emi.css"
+hash = "81dd76c422668ccb2a9baea8ab7249a0225160c40cc1e8fae93443a61bcee4a3"
+
+[[files]]
+file = "config/inventoryhud-client.toml"
+hash = "4476f781755b6588ee0cd7057debf29359b14add9fe9d786909381e18357f4aa"
+
+[[files]]
+file = "config/minihud.json"
+hash = "983e21618d5a568fee6d6d4410eecdf4c2b14cb62ab5c540ccaa3beef0781a62"
+
+[[files]]
+file = "config/walljump.json5"
+hash = "1971cfe04b08840562b7253e9ee8ac3ceb973fc8ceedff5e5fa3ee05d670392e"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "c940bcd16d37521a0c0aabb4ecfa7468ddf103714133fb0a9227cb35e6cc0f0d"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "e7103b1052ab6897d56d84909c3855450180215bf897c1956050671125bac37f"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "6169f31dabfaea466dc6bcf76c74e52e24e8221f2f2fe22c24227e424e59c14e"
+
+[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "4c21bfaee9c59de2c1ce01a3004f2e47de7775c2f0043773ed435b7852be929c"
 metafile = true
