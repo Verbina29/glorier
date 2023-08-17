@@ -1,0 +1,13 @@
+name = "Glorier"
+author = "verbina29"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "53a7ae76b5dbb316c2b5287b76665ce4693c7b8d859bc0d0259ecf3ad7963143"
+
+[versions]
+forge = "43.2.21"
+minecraft = "1.19.2"

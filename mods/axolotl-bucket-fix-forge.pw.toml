@@ -1,0 +1,13 @@
+name = "Axolotl Bucket Fix (Forge)"
+filename = "AxolotlBucketFix-1.2.1+forge-mc1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xzRkNaTy/versions/TaAmQmXH/AxolotlBucketFix-1.2.1%2Bforge-mc1.19.jar"
+hash-format = "sha1"
+hash = "f6ed1386ff71a9a613f76cd4dc203ed1163abab7"
+
+[update]
+[update.modrinth]
+mod-id = "xzRkNaTy"
+version = "TaAmQmXH"

@@ -1,0 +1,7 @@
+*.disabled
+.git
+.gitattributes
+.gitignore
+README.md
+packwiz.exe
+.github
