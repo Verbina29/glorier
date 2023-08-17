@@ -146,6 +146,11 @@ hash = "36560cdaa4a9d63651ad2781bec400cfd166f450eb49e76307bb28c631ed1d85"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "bf168e3d77a194cd21afcd67a302bd3b98f9b2a95b592a77b888f345dd7527f6"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "cf303e609b0beaf097122eecfa869d21be642e22465021f4f5aa0fa38c72b119"
 metafile = true
@@ -281,6 +286,11 @@ hash = "827b361fcddfa0bdb84bfa0ebf0e1a38b139804c92aaf9e39218d784e4111fb4"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "4776dcbe9091b43b983c665f0426f0b773c0cd1c0de9528dc0baed8ed9e5f364"
+metafile = true
+
+[[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "450bf93c940cf89f17cdffee7eb4bd9ff40d9c0b18a1be2b9275089c833363ee"
 metafile = true
@@ -308,6 +318,16 @@ metafile = true
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "58356491ca3d573b1e786df93f0ed3072143747d7e660510d8dcd2fba94e15d3"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "61459805ead435a8cedf9f599978dce88354a4d3b37e41044f80343e2e9edd9e"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "1d76dd57142055b40f6cb86f4386f11efd9fbe732ab155985fc488a84b1a88ac"
 metafile = true
 
 [[files]]
