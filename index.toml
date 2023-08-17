@@ -267,6 +267,11 @@ hash = "c5cc662513953a95db0fc0c8d98186d1f1100478683520ed112f2cae64ea84e6"
 metafile = true
 
 [[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "f982446e0d81644ee7ae042c7014ce7383d625850b7f17e288768684c9bdcf70"
+metafile = true
+
+[[files]]
 file = "mods/inventory-hud-forge.pw.toml"
 hash = "44b1ceed86da941acbdb1c107f795e1320cb4e2bfc980548da8d1ee6d1764257"
 metafile = true
