@@ -1,0 +1,13 @@
+name = "Too Many Glyphs"
+filename = "toomanyglyphs-1.19.2-2.2.372.9933.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "139ab6eae878862b70c1c7066f2e080c15269cb3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4706785
+project-id = 560595
