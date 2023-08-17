@@ -1,0 +1,13 @@
+name = "Supplementaries"
+filename = "supplementaries-1.19.2-2.3.22.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/XEFG8bQT/supplementaries-1.19.2-2.3.22.jar"
+hash-format = "sha1"
+hash = "922d80b1acedc6c3c92d1c1551b0aedd2bfe9213"
+
+[update]
+[update.modrinth]
+mod-id = "fFEIiSDQ"
+version = "XEFG8bQT"
