@@ -173,6 +173,11 @@ hash = "e6100fffd00b339e62efc3a6eaad54ca697b197813dff048d6dce2613676ef92"
 metafile = true
 
 [[files]]
+file = "mods/cyclic.pw.toml"
+hash = "715c5f09d3f5c078a7a5c37d449255287d66e0fd96ac1a13bc8783aed886138e"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "fb3b1f88c298b041927dd5488dbfac3337ccca12c6e8c2bc7daf61fafa09f445"
 metafile = true
